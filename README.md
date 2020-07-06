@@ -1,2 +1,6 @@
 # jenkins
-Jenkins docker inside docker
+
+COnfigured Jenkins container to  enable building of docker image inside jenkins 
+
+
+
